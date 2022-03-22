@@ -3,13 +3,13 @@
 ## **Stack**
 ### Frontend
 
-[NextJS](https://nextjs.org/)
-[Tailwind CSS](https://tailwindcss.com/)
+[NextJS](https://nextjs.org/) </br>
+[Tailwind CSS](https://tailwindcss.com/) </br>
 Typescript
 
 ### Backend 
 
-ExpressJS
+ExpressJS </br>
 NodeJS
 
 ## Database
