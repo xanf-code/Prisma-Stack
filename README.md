@@ -12,19 +12,19 @@ Typescript
 ExpressJS </br>
 NodeJS
 
-## Database
+### Database
 
 [Postgresql](https://www.postgresql.org/)
 
-## ORM
+### ORM
 
 [Prisma](https://www.prisma.io/)
 
-## Network
+### Network
 
 [React-Query](https://react-query.tanstack.com/)
 
-## Images
+### Images
 
 ![](images/1.png)  ![](images/2.png)
 ![](images/3.png)  ![](images/4.png)
