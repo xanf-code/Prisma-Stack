@@ -1,3 +1,22 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+html,body {
+    background-color: black;
+}
+
+@layer base {
+    @font-face {
+        font-family: 'QuattroBold';
+        src: url('/fonts/iAWriterQuattroS-Bold.woff2');
+        font-weight: 700;
+        font-display : swap;
+    }
+    @font-face {
+        font-family: 'Quattro';
+        src: url('/fonts/iAWriterQuattroS-Regular.woff2');
+        font-weight: 400;
+        font-display : swap;
+    }
+}
